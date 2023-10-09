@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fondo Azul</title>
+    <style>
+        body {
+            background-color: blue;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Mi Página con Fondo Azul</h1>
+<p>Este es un ejemplo de una página con fondo azul.</p>
+
+</body>
+</html>
+Este código HTML define una página web simple con un fondo azul. Puedes copiar y pegar este código en un archivo HTML y luego abrirlo en tu navegador web para ver el fondo azul.
+
+
+
+
+
